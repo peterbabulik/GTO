@@ -56,8 +56,8 @@ The core idea was to leverage a small, local LLM for dynamic content generation 
 
 ### Installation
 
-1.  **Clone Repository:** `git clone <https://github.com/peterbabulik/GTO/>`
-2.  **Navigate:** `cd <GTO>`
+1.  **Clone Repository:** `git clone https://github.com/peterbabulik/GTO/`
+2.  **Navigate:** `cd GTO`
 3.  **Install Dependencies:** If you haven't used `node-fetch` before in the project: `npm install node-fetch` (May not be needed for Node.js v18+).
 4.  **Create `package.json`:** Create a file named `package.json` in the project root with the following content to enable ES Module syntax (`import`):
     ```json
